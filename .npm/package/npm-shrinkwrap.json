@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "content-disposition": {
+      "version": "0.5.0"
+    }
+  }
+}
